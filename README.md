@@ -43,7 +43,9 @@ This notebook generates horizontal videos with no duration limit. It uses the Go
     video_path = "final_output.mp4"  # Replace with the actual video path
     play_video_in_colab(video_path)
     ```
+#### Video Demo
 
+![Horizontal Video Demo](final_output
 ### [Content_Machine_Vertical.ipynb](http://_vscodecontentref_/0)
 
 This notebook generates vertical videos with a duration limit of under 1 minute. It uses the Google Gemini model for text generation and the Stable Diffusion model for image generation.
