@@ -45,7 +45,7 @@ This notebook generates horizontal videos with no duration limit. It uses the Go
     ```
 #### Video Demo
 
-![Horizontal Video Demo](final_output
+![Horizontal Video Demo](final_output_2.mp4)
 ### [Content_Machine_Vertical.ipynb](http://_vscodecontentref_/0)
 
 This notebook generates vertical videos with a duration limit of under 1 minute. It uses the Google Gemini model for text generation and the Stable Diffusion model for image generation.
